@@ -4,7 +4,7 @@
 # 起動方法
 1. このプロジェクトをcloneします
 2. `cd jenkins-demo`を実行します
-3. `./gradlew bootRn`を実行します
+3. `./gradlew bootRun`を実行します
 4. `http://localhost:8080/hello`にアクセスします
 5. 以下のように表示されていればOKです
 
