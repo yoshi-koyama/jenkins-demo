@@ -1,6 +1,6 @@
 # member
 koyama
-
+Zar Li Hnin
 # 概要
 このプロジェクトはJenkinsを勉強するために作成したデモプロジェクトです。
 
